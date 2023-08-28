@@ -67,7 +67,6 @@ body {
   background-color: #3ac;
 }
 
-/* auto-play */
 #manual:not(:checked) ~ .cube {
   animation: rotate 1s alternate infinite ease-in-out;
 }
